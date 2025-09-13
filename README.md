@@ -2,7 +2,7 @@
 # 📘 Online Learning Platform — Course Analytics (SQL Version)
 
 This project demonstrates how to manage an online learning platform with students, courses, enrollments, progress tracking, and quiz scores. It also includes analytics queries for insights into course performance and student engagement.
-------------------------------------------------------------------------------
+
 
 #📂 Files
 
@@ -11,7 +11,6 @@ newme.sql → Contains:
 Database schema (CREATE TABLE …)
 
 Sample data (INSERT INTO …)
------------------------------------------------------------------------------------------------
 
 # Analytics queries:
 
